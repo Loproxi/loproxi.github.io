@@ -129,10 +129,15 @@ input, select, textarea {
 		font-style: italic;
 	}
 
-	p {
+	p:not(.introduction) {
 		text-align: justify;
 		justify-content: center;
 		margin: 0 0 2em 0;
+	}
+
+	.introduction{
+		margin: 0 0 2em 0;
+		
 	}
 
 	.highlight 
