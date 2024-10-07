@@ -130,7 +130,16 @@ input, select, textarea {
 	}
 
 	p {
+		text-align: justify;
+		justify-content: center;
 		margin: 0 0 2em 0;
+	}
+
+	.highlight 
+	{
+		font-weight: bold;        /* Negrita */
+		color: orange;               /* Color de texto */
+		padding: 2px;
 	}
 
 	h1, h2, h3, h4, h5, h6 {

@@ -33,5 +33,5 @@
 
 function DownloadCV()
 {
-	window.open("PersonalFiles/CV POL RIUS-3.pdf","_blank");
+	window.open("PersonalFiles/CV_PolRius.pdf","_blank");
 }
